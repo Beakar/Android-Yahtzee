@@ -1,0 +1,4 @@
+I've made several changes to the code as I used this framework to create several example games.  Highlights:
+- AndroidManifest.xml was modified so that GameMainActivity wont' be launched by default
+- the OnCreate methods in the framework were made final so the student can't modify them.  
+- minor adjustments to the config screen layout attemping (unsuccessfully) to get the Start button to float up when the virtual keyboard is displayed
